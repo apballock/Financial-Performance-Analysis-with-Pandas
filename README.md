@@ -1,4 +1,7 @@
 # Financial Performance Analysis
+**Ana Ballock** · [LinkedIn](https://linkedin.com/in/anaballock) · [GitHub](https://github.com/apballock)
+---
+
 ### Python · Pandas · Data Wrangling · Exploratory Analysis
  
 A end-to-end data analysis project built on a real-world financial sales dataset spanning 6 countries, 5 business segments, and 688 transactions. The project covers the full analytical workflow — from raw data ingestion and quality assessment through aggregation, joins, and dimensional reshaping — structured across two progressive levels.
